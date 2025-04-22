@@ -1,0 +1,12 @@
+# Requirements JUST for running the backtest (using pre-calculated features & XGB model)
+MetaTrader5==5.0.4874
+pandas==2.2.3
+numpy==2.1.3
+python-dotenv==1.1.0
+joblib==1.4.2
+xgboost==3.0.0
+python-dateutil==2.9.0.post0
+scikit-learn==1.6.1
+python-telegram-bot
+
+# Note: Pip will install other dependencies required by the packages above.
